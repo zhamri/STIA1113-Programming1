@@ -27,6 +27,23 @@
 |Total                  | 60% |
 |Final Examination      | 40% |
 
+## Assessment Methods A201 (100% Coursework)
+
+|Methods                | Percentage |
+|---------------------- |-----------:|
+|Quiz 1                 | 5%  |
+|Quiz 2                 | 5%  |
+|Quiz 3                 | 5%  |
+|Lab Test 1             | 5%  |
+|Lab Test 2             | 5%  |
+|Assignment 1           | 15% |
+|Assignment 2           | 15% |
+|Assignment 3           | 15% |
+|Project (Development)  | 20% |
+|Project (Presentation) | 6%  |
+|Project (Report)       | 4%  |
+|Total                  | 100% |
+
 ## Videos
 
 [![](http://img.youtube.com/vi/va79tjzVlFo/0.jpg)](http://www.youtube.com/watch?v=va79tjzVlFo "STIA1113: Java Hello World (in Malay)")
