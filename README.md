@@ -44,6 +44,12 @@
 |Project (Report)       | 4%  |
 |Total                  | 100% |
 
+## GitHub Classroom
+https://classroom.github.com/classrooms
+
+## YouTube Channel
+[MyNotes](https://bit.ly/JNotes)
+
 ## Videos
 
 [![](http://img.youtube.com/vi/va79tjzVlFo/0.jpg)](http://www.youtube.com/watch?v=va79tjzVlFo "STIA1113: Java Hello World (in Malay)")
