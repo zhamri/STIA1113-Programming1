@@ -47,6 +47,9 @@
 ## GitHub Classroom
 https://classroom.github.com/classrooms
 
+## Main Issues
+https://github.com/STIA1113-A201/Main-Issues/issues
+
 ## YouTube Channel
 [MyNotes](https://bit.ly/JNotes)
 
