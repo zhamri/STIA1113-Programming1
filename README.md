@@ -50,9 +50,8 @@ https://classroom.github.com/classrooms
 ## Main Issues
 https://github.com/STIA1113-A201/Main-Issues/issues
 
+## List of related videos
+https://github.com/zhamri/STIA1113-Programming1/wiki/MyNotes
+
 ## YouTube Channel
 [MyNotes](https://bit.ly/JNotes)
-
-## Videos
-
-[![](http://img.youtube.com/vi/va79tjzVlFo/0.jpg)](http://www.youtube.com/watch?v=va79tjzVlFo "STIA1113: Java Hello World (in Malay)")
